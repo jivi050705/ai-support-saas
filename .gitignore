@@ -1,0 +1,18 @@
+# Environment
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ChromaDB
+backend/chroma_db/
+
+# Uploads
+backend/uploaded_docs/*.pdf
+backend/uploaded_docs/*.txt
+
+# Node
+frontend/node_modules/
+frontend/.next/
